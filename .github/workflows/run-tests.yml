@@ -16,4 +16,3 @@ jobs:
         run: composer install
       - name: Running phpunit
         run: ./vendor/bin/phpunit tests
-        
